@@ -1,0 +1,28 @@
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\App.g.cs
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom_MarkupCompile.cache
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom_MarkupCompile.lref
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\bin\Debug\Lab5-Dom.exe
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\bin\Debug\Lab5-Dom.pdb
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.g.resources
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5_Dom.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.exe
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.pdb
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.exe
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.pdb
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\bin\Debug\Lab5-Dom.exe
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\bin\Debug\Lab5-Dom.pdb
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\App.g.cs
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom_MarkupCompile.cache
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom_MarkupCompile.lref
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.g.resources
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5_Dom.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Курсовой проект\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.csproj.GenerateResource.Cache
+C:\Users\Mars\Desktop\Курсовой проект 2 часть\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.exe
+C:\Users\Mars\Desktop\Курсовой проект 2 часть\Lab5\Lab5\Lab5-Dom\obj\Debug\Lab5-Dom.pdb

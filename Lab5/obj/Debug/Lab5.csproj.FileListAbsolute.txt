@@ -1,0 +1,19 @@
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\MainWindow.baml
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\MainWindow.g.cs
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\App.g.cs
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5_MarkupCompile.cache
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.g.resources
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\student-iiikt\Desktop\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Дмитрий\Desktop\Институт\Технологии программирования\Laba_1\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Mars\Desktop\Курсовой проект 2 часть\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Mars\Desktop\Курсовой проект 2 часть\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Mars\Desktop\Курсовой проект 2 часть\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
